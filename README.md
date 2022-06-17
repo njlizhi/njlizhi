@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning and sharing on my [sudongyuer-blog](https://sudongyuer.github.io/) welcome~ 
 - 🐧 QQ : 1963370683@qq.com
 - ❤️‍🔥个人博客：https://njlizhi.github.io/
+- 🐵CSDN主页：https://blog.csdn.net/weixin_51646421
 - 📧 Email : yu1963370673@qq.com
 - 📁 掘金社区 : [锖兔丶](https://juejin.cn/user/1231924158271032)
 
