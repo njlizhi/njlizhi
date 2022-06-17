@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web development
 - 🌱 I’m currently learning and sharing on my [sudongyuer-blog](https://sudongyuer.github.io/) welcome~ 
-- 🐧 QQ : 17679151104
+- 🐧 QQ : 1963370683@qq.com
+- ❤️‍🔥个人博客：https://njlizhi.github.io/
 - 📧 Email : yu1963370673@qq.com
 - 📁 掘金社区 : [锖兔丶](https://juejin.cn/user/1231924158271032)
 
